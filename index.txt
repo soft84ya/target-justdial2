@@ -1,0 +1,37 @@
+
+
+
+        header me 3 partion h 
+        partion ke leye hme grid bnana padega 
+        getbootstrap -> layout -> grid
+
+
+        just dial image svg image (scabale vector graphic) iske khasiyat kya hoti 
+        h isko kitna b bada kr lo kitna b chota kr lo
+
+
+                                Images
+
+        img ke leye getbootstrap -> image -> class="img-fluid" for responsive
+                                            class="img-thumbnail"  or chote image ke leye
+
+                                Navbar
+        getbootstrap ->navs & tab -> basic tab
+
+                                
+                                 colors
+        getbootstrap -> colors -> text-secondary , text - warning,......
+
+        ps- padding start  pe- padding end
+
+        mt-3 dedeya ancor tag ko margin top
+        me-1  margin end 1
+
+
+                                            hover selector  / desencedent  selector
+
+                                            parent  child {
+                                                property:value;
+                                            }
+
+                                            nav-Ink column wala 
